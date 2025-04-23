@@ -3,7 +3,7 @@
 **Footballeur professionnel**  
 📍 Miami, États-Unis | ✉️ leo.messi@example.com | 📅 Né le 24 juin 1987
 
-![Lionel Messi](assets/messi.jpg)
+![Lionel Messi](assets/Messi.jpg)
 
 ---
 
